@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Phrenorrhea: the weblog of pychoslave
+title: "Phrenorrhea: the weblog of psychoslave"
 email: psychoslave at culture-libre dot org
 description: >- # this means to ignore newlines until "baseurl:"
   "Warning: reading can lead to permanent alteration of your mind. Texts on this site come without warranty of any kind, readers accept full responsability of literacy experiment. I hope it might induce some sense of joy though."
