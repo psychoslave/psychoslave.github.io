@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is psychoslave’s blog. I intend to throw here anything that goes through
+my mind and might worth sharing according to my own odd opinion.
+
+This blog uses the base Jekyll theme.
+
+More info about customizing Jekyll theme, as well as basic Jekyll usage documentation at are available at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
