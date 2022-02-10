@@ -2,7 +2,7 @@
 layout: post
 title:  "My discovery of Jekyll and the world of writing a blog"
 date:   2022-02-08 17:46:30 +0100
-categories: jekyll update, hack
+tags: hack
 ---
 
 So this is a first post. It’s actually more a training field for me to play
